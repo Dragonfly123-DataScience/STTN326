@@ -1,6 +1,6 @@
 # README
 Project Title: London Temperature Time Series Analysis  
-Author: Marlie Naude (Student ID: ME44038690)  
+Author: Marlie Naude (Student ID: 44038690)  
 Course: STTN326 – Statistical Time Series Techniques  
 Assignment: Small Test 5 – Research Assignment  
 
